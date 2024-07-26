@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "change its background to red",
+        "message_id": "guest26072024120627",
+        "timestamp": "26072024120628",
+        "component_file_name": "simple_cta_component_1721994893",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sorry, as an AI language model, I do not have control over adding buttons to websites or applications. Can I assist you with anything else?",
         "message_id": "guest26072024120532",
