@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Add a button that says hello world",
+        "message_id": "guest26072024120721",
+        "timestamp": "26072024120722",
+        "component_file_name": "simple_cta_component_1721994893",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "I'm sorry, as an AI language model, I do not have a physical interface to change the background color of an object. Can you please provide me with more context or details so I can assist you better?",
         "message_id": "guest26072024120627",
