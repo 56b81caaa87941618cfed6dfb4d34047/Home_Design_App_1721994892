@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button good morning",
+        "message_id": "guest26072024120532",
+        "timestamp": "26072024120533",
+        "component_file_name": "simple_cta_component_1721994893",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "<button>Nine</button>",
         "message_id": "guest26072024115557",
