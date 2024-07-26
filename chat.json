@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "<button>Nine</button>",
+        "message_id": "guest26072024115557",
+        "timestamp": "26072024115558",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Nine",
         "message_id": "guest26072024115557",
