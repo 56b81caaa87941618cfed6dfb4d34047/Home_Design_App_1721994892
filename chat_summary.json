@@ -24,5 +24,11 @@
         "content": "add a button good morning",
         "timestamp": "26072024120533",
         "message_id": "guest26072024120532"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sorry, as an AI language model, I do not have control over adding buttons to websites or applications. Can I assist you with anything else?",
+        "timestamp": "26072024120534",
+        "message_id": "guest26072024120532"
     }
 ]
